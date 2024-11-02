@@ -35,6 +35,7 @@ Welcome to my GitHub profile!
 ### [LinkUp: LinkedIn Connections AI Similarity Tracker](https://github.com/naishagarwal/hackmit-2024-college-counselor)
 *Technologies:* Flask, SQL, React, Retrieval-Augmented Generation (RAG), Docker, Postman  
 *Event:* HackMIT, Sep 2024
+
 ---
 
 ### [UniFit: Sustainable Clothing Rental Website](https://github.com/jackdeye/unifit)
