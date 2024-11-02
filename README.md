@@ -30,8 +30,17 @@ Welcome to my GitHub profile!
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=selsong&show_icons=true&theme=radical)
+## 💼 Projects
+
+### [LinkUp: LinkedIn Connections AI Similarity Tracker](https://github.com/naishagarwal/hackmit-2024-college-counselor)
+*Technologies:* Flask, SQL, React, Retrieval-Augmented Generation (RAG), Docker, Postman  
+*Event:* HackMIT, Sep 2024
+---
+
+### [UniFit: Sustainable Clothing Rental Website](https://github.com/jackdeye/unifit)
+*Technologies:* React, Vite, Multer, MongoDB, Node.js, Express  
+*Timeline:* Mar 2024 – Jun 2024
+
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://linkedin.com/in/selinasong)
