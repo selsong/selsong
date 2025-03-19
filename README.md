@@ -33,10 +33,9 @@ Welcome to my GitHub profile!
 ## Research
 
 ### [ViNT](https://github.com/selsong/vint)
-Computer Vision Research, Zhou Lab @ UCLA
-Advised by Professor Bolei Zhou, Associate Researcher Wayne Wu
-ViT for autonomous micromobility
-Jan 2025 - Present
+- Computer Vision Research, Zhou Lab @ UCLA
+- Advised by Professor Bolei Zhou, Associate Researcher Wayne Wu
+- Jan 2025 - Present
 
 ## Projects
 
