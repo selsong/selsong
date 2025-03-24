@@ -38,6 +38,9 @@ Welcome to my GitHub profile!
 - Jan 2025 - Present
 
 ## Projects
+### [Yapper: Slang Language App](https://github.com/selsong/yapper)
+*Tech:* Swift, Firebase  
+*Available now on the App Store* 
 
 ### [LinkUp: LinkedIn Connections AI Similarity Tracker](https://github.com/naishagarwal/hackmit-2024-college-counselor)
 *Tech:* Flask, SQL, React, Retrieval-Augmented Generation (RAG), Docker, Postman  
