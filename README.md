@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 -->
 
-# Hi there! 👋 I’m Selina!
+# Hi, I’m Selina!
 
 Welcome to my GitHub profile!
 
 ## 👨‍💻 About Me
-- 🌱 CS Major @ UCLA
+- CS Major @ UCLA
 
 ## Languages and Tools
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -30,27 +30,27 @@ Welcome to my GitHub profile!
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 
-## Research
-
-### [ViNT](https://github.com/selsong/vint)
-- Computer Vision Research, Zhou Lab @ UCLA
-- Advised by Professor Bolei Zhou, Associate Researcher Wayne Wu
-- Jan 2025 - Present
-
 ## Projects
+### [Choreo: AI Dance Teacher](https://github.com/selsong/choreo)
+*Tech:* React, Flask, OpenCV, MediaPipe, Tensorflow
+*Event:* LA Hacks, Apr 2025
+
 ### [Yapper: Slang Language App](https://github.com/selsong/yapper)
 *Tech:* Swift, Firebase  
 *Available now on the App Store* 
-
-### [LinkUp: LinkedIn Connections AI Similarity Tracker](https://github.com/naishagarwal/hackmit-2024-college-counselor)
-*Tech:* Flask, SQL, React, Retrieval-Augmented Generation (RAG), Docker, Postman  
-*Event:* HackMIT, Sep 2024
 
 ---
 
 ### [UniFit: Sustainable Clothing Rental Website](https://github.com/jackdeye/unifit)
 *Tech:* React, Vite, Multer, MongoDB, Node.js, Express  
 *Timeline:* Mar 2024 – Jun 2024
+
+## Research
+
+### [ViNT](https://github.com/selsong/vint)
+- Computer Vision Research, Zhou Lab @ UCLA
+- Advised by Professor Bolei Zhou, Associate Researcher Wayne Wu
+- Jan 2025 - Present
 
 
 ## 📫 Let's Connect!
