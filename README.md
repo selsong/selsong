@@ -32,12 +32,16 @@ Welcome to my GitHub profile!
 
 ## Projects
 ### [Choreo: AI Dance Teacher](https://github.com/selsong/choreo)
-*Tech:* React, Flask, OpenCV, MediaPipe, Tensorflow
+*Tech:* React, Flask, OpenCV, MediaPipe, Tensorflow  
 *Event:* LA Hacks, Apr 2025
 
 ### [Yapper: Slang Language App](https://github.com/selsong/yapper)
-*Tech:* Swift, Firebase  
-*Available now on the App Store* 
+  *Tech:* Swift, Firebase  
+  *Available now on the App Store* 
+
+### [LinkUp: LinkedIn Connections AI Similarity Tracker](https://github.com/naishagarwal/hackmit-2024-college-counselor)
+ *Tech:* Flask, SQL, React, Retrieval-Augmented Generation (RAG), Docker, Postman  
+ *Event:* HackMIT, Sep 2024
 
 ---
 
